@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # curso de git/hub dio
 
@@ -9,3 +10,6 @@ Uma breve descrição sobre o que esse projeto do curso dio
 
 
 💻meu github (https://github.com/Artur-Eloi-Coelho-Neto)
+=======
+# crud-springboot-mysql
+>>>>>>> origin/main
